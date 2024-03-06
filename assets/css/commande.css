@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Pacifico&display=swap');
+
+.total {
+    color: #FFF;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: end;
+    float: right;
+}
+.logoText {
+    font-size: 30px;
+    letter-spacing: 1px;
+    color: #fff;
+    font-family: "Pacifico", cursive !important;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 3px;
+  }
+  .headFact h2 {
+    color: #FF581A;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .headFact .totalNum {
+    color:#36415E;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .headFact {
+    border-bottom: 1px solid black;
+    padding-bottom: 30px;
+  }
+  .liste h5 {
+    color: #FF581A;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .liste h5 span {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: #FF581A;
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 10px;
+  }
+  .liste .producttext {
+    color: #060606;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 0px;
+  }
+  .liste .productprice {
+    color: #060606;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .factureDetails {
+    border-bottom: 1px solid black;
+    padding-bottom: 30px;
+  }
+  .payment h5 {
+    color: #060606;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .typeCard {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+  }
+  .typeCard img {
+    width: 80px;
+    height: 50px;
+    object-fit: contain;
+    margin-right: 10px;
+  }
+  .typeCard h6 {
+    color: #060606;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .typeCard p {
+    color: #ADADAD;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+   .tatalPay {
+    color: #060606;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .payDesc {
+    color: #878787;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  .payFooter h6 {
+    color: #060606;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .factureBtns a {
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: smaller;
+    font-style: normal;font-weight: 700;
+    border-radius: 25px;
+    background: #FF4500;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: none;
+  }
+  .footer .logo {
+    text-align: center !important;
+  }
+  .footer2Links {
+    border-bottom: 1px solid #EDF1C8;
+    padding-bottom: 30px;
+  }
+  .footer2Links .lien {
+    color: #EDF1C8;
+    text-align: center !important;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  .adr {
+    color: #EDF1C8;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+  }
+.facture .row {
+    padding-left: 10px;
+    padding-right: 10px;
+}
